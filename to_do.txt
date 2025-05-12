@@ -1,0 +1,37 @@
+
+
+3)add option for adding the extention sessions(if a oersion initially paid for 5 days and aleter on paid for 5 more days how to accomoidate it?)
+=> 2solutions 1)add a payments table 
+               2)add a button in the patient registration portal and add the payment there and update it
+*)add dropdown(or text input converted to all caps) for the attending physio for a patient ,So that we can 
+trcak which patient was attended by whhich physio and how much package they could make or nt able to convert the patient ect..
+8)add a slider for degree of imporvement
+4)Decide on how to create and handle a cancelled session.
+5)display infor about the patient and his sessions effeictently.
+6)login meahcnism afor admin to track all important clinic metrics and expenses.
+no of consulattions converted % wise per physio
+7)add all the data entry columns(surce of patient(google,referal,offline walkin)
+8)View and schedule apointments 3 patinets in 1 hrs basis.
+
+
+
+*)Viewing options for all sessions of a patient
+*)Error at line 59 due to session state variable fix it when free.
+File "C:\Pratik_learn\home_visit_app\Pages\manage_sessions.py", line 59, in <module>
+    patient_id = patient_data['patient_id'].values[0]
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+
+
+
+
+
+
+
+
+
+
+
+AI comapy for chaild care.
+
+1)AI smart mnitoring based in camera and event detetionn and notification.
+2)Added with AI smart learning fir small kids.
